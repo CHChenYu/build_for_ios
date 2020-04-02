@@ -1,0 +1,4 @@
+/Users/chenyu/Desktop/build_for_ios/Flutter.framework/Flutter filter=lfs diff=lfs merge=lfs -text
+Flutter filter=lfs diff=lfs merge=lfs -text
+Flutter.framework filter=lfs diff=lfs merge=lfs -text
+/Users/chenyu/Desktop/build_for_ios/Flutter.framework/Flutter[[:space:]] filter=lfs diff=lfs merge=lfs -text
