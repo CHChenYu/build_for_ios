@@ -18,7 +18,6 @@ Flutter provides an easy and productive way to build and deploy high-performance
   s.author           = { 'Flutter Dev Team' => 'duia@duia.com' }
   s.source           = { :git => 'https://github.com/CHChenYu/build_for_ios.git', :tag => s.version.to_s }#这一行代码不重要,因为外面引用时会直接指定tag,所以此行代码理论上是无效的
   s.ios.deployment_target = '8.0'
-  s.vendored_libraries = ''
   s.vendored_frameworks = 'App.framework','Flutter.framework'
   s.source_files =  "Classes", "GeneratedPluginRegistrant.{h,m}"
   s.public_header_files = 'GeneratedPluginRegistrant.h'
